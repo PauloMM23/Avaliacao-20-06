@@ -31,8 +31,10 @@ int main() {
 
     cout << "Menor valor: " << menorElemento(raiz)->valor << endl;
     cout << "Maior valor: " << maiorElemento(raiz)->valor << endl;
-
-   
+    
+    cout << "Verificar Nivel: " << verificarNivel(raiz) << endl;
+    
+    cout << "Verificar Folha: " << verificarFolha(raiz) << endl;
     return 1;
 
 }
