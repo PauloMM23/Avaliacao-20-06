@@ -149,3 +149,15 @@ Arvore *maiorElemento(Arvore *raiz) {
 
     return p;
 }
+
+Arvore *verificarNivel(Arvore *raiz) {
+
+    
+    
+}
+
+Arvore *verificarFolha(Arvore *raiz) {
+    
+    
+    
+}
